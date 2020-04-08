@@ -1,0 +1,42 @@
+﻿{
+   "ContextClassName": "ProgrammingfirmContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "DoNotCombineNamespace": false,
+   "IdReplace": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": null,
+   "ProjectRootNamespace": "ProgrammingSystem",
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Department]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Post]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Projects]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[ProjectStaffs]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Staff]"
+      }
+   ],
+   "UseDatabaseNames": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseSpatial": false
+}
